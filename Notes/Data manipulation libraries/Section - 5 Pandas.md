@@ -27,13 +27,13 @@ Clear explanation:
 
 A NumPy array has numerical index.
 
-![[image.png]]
+![image](https://raw.githubusercontent.com/PVSSP656/Data-Analysis-Journey/main/Notes/Assets/image.png)
 
 But, instead of remembering the positions of elements in an array, Pandas allows us to give “string” as index for data in an array.
 
 Pandas series adds on a labelled index
 
-![[image 1.png]]
+![image 1](https://raw.githubusercontent.com/PVSSP656/Data-Analysis-Journey/main/Notes/Assets/image%201.png)
 
 But data is still numerically organized:
 
