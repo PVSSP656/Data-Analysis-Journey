@@ -52,7 +52,7 @@ But data is still numerically organized:
 
 ## Series - part 02
 
-![[Series_02.pdf]]
+📄 [Series 02 PDF](https://github.com/PVSSP656/Data-Analysis-Journey/raw/main/Notes/Assets/Series_02.pdf)
 
 ---
 
@@ -78,7 +78,7 @@ So now, a dataframe is:
 
 ---
 
-![[DataFrames_-_Part_One_-_Creating_a_DataFrame.pdf]]
+📄 [DataFrames - Part One - Creating a DataFrame](https://github.com/PVSSP656/Data-Analysis-Journey/raw/main/Notes/Assets/DataFrames_-_Part_One_-_Creating_a_DataFrame.pdf)
 
 ---
 
@@ -88,7 +88,7 @@ So now, a dataframe is:
 
 ## DataFrames - Part Two - Basic Properties
 
-![[DataFrames_-_Part_02_-_Basic_Properties.pdf]]
+📄 [DataFrames - Part 02 - Basic Properties](https://github.com/PVSSP656/Data-Analysis-Journey/raw/main/Notes/Assets/DataFrames_-_Part_02_-_Basic_Properties.pdf)
 
 ---
 
@@ -98,7 +98,7 @@ So now, a dataframe is:
 
 ## DataFrames - Part Three - Working with Columns
 
-![[DataFrames_-_Part_Three_-_Working_with_Columns.pdf]]
+📄 [DataFrames - Part Three - Working with Columns](https://github.com/PVSSP656/Data-Analysis-Journey/raw/main/Notes/Assets/DataFrames_-_Part_Three_-_Working_with_Columns.pdf)
 
 
 ----------------------
@@ -109,7 +109,7 @@ So now, a dataframe is:
 
 ## DataFrames - Part Four - Working with Rows
 
-![[DataFrames - Part Four - Working with Rows.pdf]]
+📄 [DataFrames - Part Four - Working with Rows](https://github.com/PVSSP656/Data-Analysis-Journey/raw/main/Notes/Assets/DataFrames%20-%20Part%20Four%20-%20Working%20with%20Rows.pdf)
 
 
 ---
@@ -120,7 +120,7 @@ So now, a dataframe is:
 
 # Conditional Filtering
 
-![[Conditional Filtering.pdf]]
+📄 [Conditional Filtering](https://github.com/PVSSP656/Data-Analysis-Journey/raw/main/Notes/Assets/Conditional%20Filtering.pdf)
 
 ---
 ---
@@ -128,7 +128,7 @@ So now, a dataframe is:
 
 # Useful Methods - Apply on Single Column
 
-![[Useful Methods - Apply on a Single Column.pdf]]
+📄 [Useful Methods - Apply on a Single Column](https://github.com/PVSSP656/Data-Analysis-Journey/raw/main/Notes/Assets/Useful%20Methods%20-%20Apply%20on%20a%20Single%20Column.pdf)
 
 ---
 
@@ -186,7 +186,7 @@ is generally faster than
 np.vectorize(square)(arr)
 ```
 
-![[Useful Methods - Apply on Multiple Columns.pdf]]
+📄 [Useful Methods - Apply on Multiple Columns](https://github.com/PVSSP656/Data-Analysis-Journey/raw/main/Notes/Assets/Useful%20Methods%20-%20Apply%20on%20Multiple%20Columns.pdf)
 
 ---
 
@@ -196,7 +196,7 @@ np.vectorize(square)(arr)
 
 # Useful Methods - Statistical Information and Sorting
 
-![[Useful Methods - Statistical Information and Sorting.pdf]]
+📄 [Useful Methods - Statistical Information and Sorting](https://github.com/PVSSP656/Data-Analysis-Journey/raw/main/Notes/Assets/Useful%20Methods%20-%20Statistical%20Information%20and%20Sorting.pdf)
 
 ---
 
@@ -235,4 +235,4 @@ Categorical columns are not continuous.
 
 ![Screenshot](https://raw.githubusercontent.com/PVSSP656/Data-Analysis-Journey/main/Notes/Assets/Screenshot_20260622-002106_Udemy.png)
 
-![[GroupBy Operations - Part One.pdf]]
+📄 [GroupBy Operations - Part One](https://github.com/PVSSP656/Data-Analysis-Journey/raw/main/Notes/Assets/GroupBy%20Operations%20-%20Part%20One.pdf)
