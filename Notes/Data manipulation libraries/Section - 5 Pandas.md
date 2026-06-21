@@ -210,13 +210,13 @@ Options for dealing with missing data:
 - Remove it
 - Replace it
 
-![image 5](https://raw.githubusercontent.com/PVSSP656/Data-Analysis-Journey/main/Notes/Assets/image%205.png)
+![Image 5](https://github.com/PVSSP656/Data-Analysis-Journey/raw/main/Notes/Assets/Image%205.png)
 
-![image 6](https://raw.githubusercontent.com/PVSSP656/Data-Analysis-Journey/main/Notes/Assets/image%206.png)
+![Image 6](https://github.com/PVSSP656/Data-Analysis-Journey/raw/main/Notes/Assets/Image%206.png)
 
-![image 7](https://raw.githubusercontent.com/PVSSP656/Data-Analysis-Journey/main/Notes/Assets/image%207.png)
+![Image 7](https://github.com/PVSSP656/Data-Analysis-Journey/raw/main/Notes/Assets/Image%207.png)
 
-![image 8](https://raw.githubusercontent.com/PVSSP656/Data-Analysis-Journey/main/Notes/Assets/image%208.png)
+![Image 8](https://github.com/PVSSP656/Data-Analysis-Journey/raw/main/Notes/Assets/Image%208.png)
 
 ![[Missing Data - Pandas Operations.pdf]]
 
