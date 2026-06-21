@@ -268,6 +268,6 @@ Maximum stay city is Mumbai with 98 days for budget 1500
 
   
 
-[[Section - 4 - Numpy]]
+[Section - 4 - Numpy](Data%20manipulation%20libraries/Section%20-%204%20-%20Numpy.md)
 
-[[Section - 5 Pandas]]
+[Section - 5 Pandas](Data%20manipulation%20libraries/Section%20-%205%20Pandas.md)
