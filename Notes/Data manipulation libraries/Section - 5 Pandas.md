@@ -41,7 +41,8 @@ But data is still numerically organized:
 
 ---
 
-![[Series_part_01.pdf]]
+[Series Part 01](https://github.com/PVSSP656/Data-Analysis-Journey/blob/main/Notes/Assets/Series_part_01.pdf)
+
 
 ---
 
