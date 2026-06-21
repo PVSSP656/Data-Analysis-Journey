@@ -7,4 +7,4 @@ Using NumPy and Pandas, perform a statistical analysis of the dataset and answer
 - Identify any potential outliers in the dataset using an appropriate statistical method.
 - Present your findings using suitable visualizations and provide a brief interpretation of the results.
 
-![[president_height.pdf]]
+📄 [Heights of US Presidents](https://github.com/PVSSP656/Data-Analysis-Journey/raw/main/Notes/Assets/president_height.pdf)
