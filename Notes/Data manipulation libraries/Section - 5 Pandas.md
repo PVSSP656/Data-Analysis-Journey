@@ -72,7 +72,7 @@ A group of Pandas series that share the same index is called as a DataFrame
 So now, a dataframe is:
 
   
-![image 4](https://raw.githubusercontent.com/PVSSP656/Data-Analysis-Journey/main/Notes/Assets/image%204.png)
+![image 4](https://raw.githubusercontent.com/PVSSP656/Data-Analysis-Journey/main/Notes/Assets/Image%204.png)
 
 
 ---
