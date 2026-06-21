@@ -37,7 +37,7 @@ Pandas series adds on a labelled index
 
 But data is still numerically organized:
 
-![[image 2.png]]
+![image 2](https://raw.githubusercontent.com/PVSSP656/Data-Analysis-Journey/main/Notes/Assets/image%202.png)
 
 ---
 
@@ -65,14 +65,14 @@ A group of Pandas series that share the same index is called as a DataFrame
 
   
 
-![[image 3.png]]
+![image 3](https://raw.githubusercontent.com/PVSSP656/Data-Analysis-Journey/main/Notes/Assets/image%203.png)
 
   
 
 So now, a dataframe is:
 
   
-![[image 4.png]]
+![image 4](https://raw.githubusercontent.com/PVSSP656/Data-Analysis-Journey/main/Notes/Assets/image%204.png)
 
 
 ---
@@ -210,13 +210,13 @@ Options for dealing with missing data:
 - Remove it
 - Replace it
 
-![[Image 5.png]]
+![image 5](https://raw.githubusercontent.com/PVSSP656/Data-Analysis-Journey/main/Notes/Assets/image%205.png)
 
-![[Image 6.png]]
+![image 6](https://raw.githubusercontent.com/PVSSP656/Data-Analysis-Journey/main/Notes/Assets/image%206.png)
 
-![[Image 7.png]]
+![image 7](https://raw.githubusercontent.com/PVSSP656/Data-Analysis-Journey/main/Notes/Assets/image%207.png)
 
-![[Image 8.png]]
+![image 8](https://raw.githubusercontent.com/PVSSP656/Data-Analysis-Journey/main/Notes/Assets/image%208.png)
 
 ![[Missing Data - Pandas Operations.pdf]]
 
@@ -232,6 +232,6 @@ A groupby() operation in Pandas allows us to examine data on per category basis.
 We need to choose a categorical column to call with groupby().
 Categorical columns are not continuous. 
 
-![[Screenshot_20260622-002106_Udemy.png]]
+![Screenshot](https://raw.githubusercontent.com/PVSSP656/Data-Analysis-Journey/main/Notes/Assets/Screenshot_20260622-002106_Udemy.png)
 
 ![[GroupBy Operations - Part One.pdf]]
