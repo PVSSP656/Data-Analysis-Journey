@@ -219,7 +219,7 @@ Options for dealing with missing data:
 
 ![Image 8](https://github.com/PVSSP656/Data-Analysis-Journey/raw/main/Notes/Assets/Image%208.png)
 
-![[Missing Data - Pandas Operations.pdf]]
+📄 [Missing Data - Pandas Operations](https://github.com/PVSSP656/Data-Analysis-Journey/raw/main/Notes/Assets/Missing%20Data%20-%20Pandas%20Operations.pdf)
 
 ---
 
