@@ -27,22 +27,21 @@ Clear explanation:
 
 A NumPy array has numerical index.
 
-![image](https://raw.githubusercontent.com/PVSSP656/Data-Analysis-Journey/main/Notes/Assets/image.png)
+![[image.png]]
 
 But, instead of remembering the positions of elements in an array, Pandas allows us to give “string” as index for data in an array.
 
 Pandas series adds on a labelled index
 
-![image 1](https://raw.githubusercontent.com/PVSSP656/Data-Analysis-Journey/main/Notes/Assets/image%201.png)
+![[image 1.png]]
 
 But data is still numerically organized:
 
-![image 2](https://raw.githubusercontent.com/PVSSP656/Data-Analysis-Journey/main/Notes/Assets/image%202.png)
+![[image 2.png]]
 
 ---
 
-[Series Part 01](https://github.com/PVSSP656/Data-Analysis-Journey/blob/main/Notes/Assets/Series_part_01.pdf)
-
+![[Series_part_01.pdf]]
 
 ---
 
@@ -52,7 +51,7 @@ But data is still numerically organized:
 
 ## Series - part 02
 
-📄 [Series 02 PDF](https://github.com/PVSSP656/Data-Analysis-Journey/raw/main/Notes/Assets/Series_02.pdf)
+![[Series_02.pdf]]
 
 ---
 
@@ -66,19 +65,19 @@ A group of Pandas series that share the same index is called as a DataFrame
 
   
 
-![image 3](https://raw.githubusercontent.com/PVSSP656/Data-Analysis-Journey/main/Notes/Assets/image%203.png)
+![[image 3.png]]
 
   
 
 So now, a dataframe is:
 
   
-![Image 4](https://github.com/PVSSP656/Data-Analysis-Journey/raw/main/Notes/Assets/Image%204.png)
+![[image 4.png]]
 
 
 ---
 
-📄 [DataFrames - Part One - Creating a DataFrame](https://github.com/PVSSP656/Data-Analysis-Journey/raw/main/Notes/Assets/DataFrames_-_Part_One_-_Creating_a_DataFrame.pdf)
+![[DataFrames_-_Part_One_-_Creating_a_DataFrame.pdf]]
 
 ---
 
@@ -88,7 +87,7 @@ So now, a dataframe is:
 
 ## DataFrames - Part Two - Basic Properties
 
-📄 [DataFrames - Part 02 - Basic Properties](https://github.com/PVSSP656/Data-Analysis-Journey/raw/main/Notes/Assets/DataFrames_-_Part_02_-_Basic_Properties.pdf)
+![[DataFrames_-_Part_02_-_Basic_Properties.pdf]]
 
 ---
 
@@ -98,7 +97,7 @@ So now, a dataframe is:
 
 ## DataFrames - Part Three - Working with Columns
 
-📄 [DataFrames - Part Three - Working with Columns](https://github.com/PVSSP656/Data-Analysis-Journey/raw/main/Notes/Assets/DataFrames_-_Part_Three_-_Working_with_Columns.pdf)
+![[DataFrames_-_Part_Three_-_Working_with_Columns.pdf]]
 
 
 ----------------------
@@ -109,7 +108,7 @@ So now, a dataframe is:
 
 ## DataFrames - Part Four - Working with Rows
 
-📄 [DataFrames - Part Four - Working with Rows](https://github.com/PVSSP656/Data-Analysis-Journey/raw/main/Notes/Assets/DataFrames%20-%20Part%20Four%20-%20Working%20with%20Rows.pdf)
+![[DataFrames - Part Four - Working with Rows.pdf]]
 
 
 ---
@@ -120,7 +119,7 @@ So now, a dataframe is:
 
 # Conditional Filtering
 
-📄 [Conditional Filtering](https://github.com/PVSSP656/Data-Analysis-Journey/raw/main/Notes/Assets/Conditional%20Filtering.pdf)
+![[Conditional Filtering.pdf]]
 
 ---
 ---
@@ -128,7 +127,7 @@ So now, a dataframe is:
 
 # Useful Methods - Apply on Single Column
 
-📄 [Useful Methods - Apply on a Single Column](https://github.com/PVSSP656/Data-Analysis-Journey/raw/main/Notes/Assets/Useful%20Methods%20-%20Apply%20on%20a%20Single%20Column.pdf)
+![[Useful Methods - Apply on a Single Column.pdf]]
 
 ---
 
@@ -186,7 +185,7 @@ is generally faster than
 np.vectorize(square)(arr)
 ```
 
-📄 [Useful Methods - Apply on Multiple Columns](https://github.com/PVSSP656/Data-Analysis-Journey/raw/main/Notes/Assets/Useful%20Methods%20-%20Apply%20on%20Multiple%20Columns.pdf)
+![[Useful Methods - Apply on Multiple Columns.pdf]]
 
 ---
 
@@ -196,7 +195,7 @@ np.vectorize(square)(arr)
 
 # Useful Methods - Statistical Information and Sorting
 
-📄 [Useful Methods - Statistical Information and Sorting](https://github.com/PVSSP656/Data-Analysis-Journey/raw/main/Notes/Assets/Useful%20Methods%20-%20Statistical%20Information%20and%20Sorting.pdf)
+![[Useful Methods - Statistical Information and Sorting.pdf]]
 
 ---
 
@@ -211,15 +210,15 @@ Options for dealing with missing data:
 - Remove it
 - Replace it
 
-![Image 5](https://github.com/PVSSP656/Data-Analysis-Journey/raw/main/Notes/Assets/Image%205.png)
+![[Image 5.png]]
 
-![Image 6](https://github.com/PVSSP656/Data-Analysis-Journey/raw/main/Notes/Assets/Image%206.png)
+![[Image 6.png]]
 
-![Image 7](https://github.com/PVSSP656/Data-Analysis-Journey/raw/main/Notes/Assets/Image%207.png)
+![[Image 7.png]]
 
-![Image 8](https://github.com/PVSSP656/Data-Analysis-Journey/raw/main/Notes/Assets/Image%208.png)
+![[Image 8.png]]
 
-📄 [Missing Data - Pandas Operations](https://github.com/PVSSP656/Data-Analysis-Journey/raw/main/Notes/Assets/Missing%20Data%20-%20Pandas%20Operations.pdf)
+![[Missing Data - Pandas Operations.pdf]]
 
 ---
 
@@ -233,6 +232,141 @@ A groupby() operation in Pandas allows us to examine data on per category basis.
 We need to choose a categorical column to call with groupby().
 Categorical columns are not continuous. 
 
-![Screenshot](https://raw.githubusercontent.com/PVSSP656/Data-Analysis-Journey/main/Notes/Assets/Screenshot_20260622-002106_Udemy.png)
+![[Screenshot_20260622-002106_Udemy.png]]
 
-📄 [GroupBy Operations - Part One](https://github.com/PVSSP656/Data-Analysis-Journey/raw/main/Notes/Assets/GroupBy%20Operations%20-%20Part%20One.pdf)
+![[GroupBy Operations - Part One.pdf]]
+
+---
+
+---
+
+---
+
+# GroupBy Operations - Part Two - MultiIndex
+
+![[GroupBy Operations - Part Two - MultiIndex.pdf]]
+
+---
+
+---
+
+---
+
+# Combining DataFrames - Concatenation
+
+Often the data you need exists in two separate sources, fortunately, Pandas makes it easy to combine these together. 
+The simplest combination is if both sources are already in the same format, then a concatenation through the pd.concat() call is all that is needed.
+
+Concatenation is simply 'pasting' the two dataframes together, by columns:
+
+DataFrame - 1:
+
+|        | Year | Pop |
+| ------ | ---- | --- |
+| USA    | 1776 | 328 |
+| CANADA | 1867 | 38  |
+| MEXICO | 1821 | 126 |
+
+DataFrame - 2:
+
+|        | GDP  | Perct |
+| ------ | ---- | ----- |
+| USA    | 20.5 | 75%   |
+| CANADA | 1.7  | NAN   |
+| MEXICO | 1.22 | 25%   |
+
+The resulting dataframe is:
+
+|        | Year | Pop | GDP  | Perct |
+| ------ | ---- | --- | ---- | ----- |
+| USA    | 1776 | 328 | 20.5 | 75%   |
+| CANADA | 1867 | 38  | 1.7  | NAN   |
+| MEXICO | 1821 | 126 | 1.22 | 25%   |
+Similarly, we can perform on rows. 
+
+![[Combining DataFrames - Concatenation.pdf]]
+
+---
+
+---
+
+---
+
+# Combining DataFrames - Inner Merge
+
+Often DataFrames are not in the exact sam eorder or format, meaning we cannot simply concatenate them together.
+In this case, we need to merge the DataFrames.
+The is analogous to a JOIN command in SQL.
+
+The ' .merge() ' methods takes in a key argument labeled **how**.
+There are 3 main ways of merging tables together using the **how** parameter:
+- Inner
+- Outer
+- Left or Right
+
+Let's imagine a simple example:
+Our company is holding a conference for people in the movie rental industry.
+We'll have people register online beforehand and the login the day of conference.
+
+![[Image 9.jpg]]
+
+(For the sake of simplicity, let's assume all the names are unique)
+
+First we need to decide **on** what columns to merge together.
+The **on** column should be a *primary* identifier, meaning unique per row.
+The **on** column should also be present in both tables being merged.
+Since we assume names are unique here, we will merge **on** = "name".
+
+With ***how*** = ***"inner"***, the result will be the set of records that match in both boxes. 
+
+![[Image 10.jpg]]
+
+```python
+pd.merge(registrations,logins,how='inner',on='name')
+```
+
+![[Combining DataFrames - Inner Merge.pdf]]
+
+---
+
+---
+
+---
+
+# Combining DataFrames - Left and Right Merge
+
+### Note: Order of the tables passed in as arguments does matter here.
+
+![[Image 9.jpg]]
+
+### Note: Registrations is the left table, logins will be the right table.
+
+![[Image 11.jpg]]
+
+![[Combining DataFrames - Left and Right Merge.pdf]]
+
+---
+
+---
+
+---
+
+# Combining DataFrames - Outer Merge
+
+Setting ***how*** = ***'outer'*** allows us to include everything present in both tables.
+Or, in mathematical terms, we can say that 'outer' is 'union'.
+
+![[Combining DataFrames - Outer Merge.pdf]]
+
+---
+
+---
+
+---
+
+# Text Methods for String Data
+
+Often text data needs to be cleaned or manipulated for processing.
+While we can always use a custom `apply()` function for these tasks, pandas comes with many built-in string method calls.
+
+![[Text Methods for String Data.pdf]]
